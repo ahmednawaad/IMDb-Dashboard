@@ -1,5 +1,6 @@
 # IMDb-Dashboard
 
+![dashboard_image](https://user-images.githubusercontent.com/45611227/140750931-01c72060-8cb0-4a43-a18c-e929e336f0b7.png)
 
 
 <div align="center" id="top"> 
@@ -48,7 +49,7 @@ The following tools were used in the REST-API project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [DAsh](https://dash.plotly.com/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Dash](https://dash.plotly.com/) installed.
 
 ## :checkered_flag: Starting ##
 
