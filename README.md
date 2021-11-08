@@ -35,7 +35,7 @@ This project is a Data visualization project for IMDb dataset at Kaggle. https:/
 :heavy_check_mark: Data Visualization. \
 :heavy_check_mark: Dashboard. \
 :heavy_check_mark: Plotly. \
-:heavy_check_mark: Dash. \
+:heavy_check_mark: Dash. 
 
 
 ## :rocket: Technologies ##
